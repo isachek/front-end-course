@@ -1,0 +1,17 @@
+{
+  "talks": [{
+    "title": "Course Overview. Git basics. HTML and CSS basics",
+    "speakers": [{
+      "name": "Dzmitry Varabei",
+      "slides": []
+    }, {
+      "name": "Stanislau Zubovich",
+      "slides": []
+    }],
+    "links": [{
+      "title": "Git Real - Codeschool Course",
+      "href": "https://www.codeschool.com/courses/git-real"
+    }],
+    "feedback_url": "https://docs.google.com/forms/d/1amRQSbczDaayis-JzN0znsP18YwQi6We1rqn728tUVw/viewform"
+  }]
+}
