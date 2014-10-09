@@ -1,0 +1,66 @@
+doctype html
+html
+head
+    meta(charset='UTF-8')
+    title Front-end course
+    link(rel='stylesheet', href='http://cdnjs.cloudflare.com/ajax/libs/foundation/5.4.5/css/foundation.min.css')
+    link(rel='stylesheet', href='../css/font-awesome.min.css')
+    style
+      | .header-links {
+      |   padding: 10px;
+      | }
+      | .row {
+      |   max-width: 90%;
+      | }
+      | section {
+      |   padding: 10px;
+      | }
+  body
+    nav.top-bar(data-topbar='data-topbar', role='navigation')
+      ul.title-area
+        li.name
+          h1
+            a(href='#') Front-end course
+      .header-links.right
+        ul.inline-list
+          li
+            a(href='https://docs.google.com/forms/d/1dsGkxk0P9McvuKTkhEj-Pm_1pznpkVfzIhwjofW5Lgk/viewform' target='_blank')
+              | Feedback
+          li
+            a(href='skype:?chat&blob=rZFzmW34j_DNu3McnAHeYRZaSNzwEy-Dy7MbhZKt6cQQ9xZzt3NS3tqizkjd5yUMrSSSee5mA2961_Cl')
+              i.fa.fa-skype
+              | Skype
+    section
+      h3.row Talks
+      table.row
+        thead
+          tr
+            th.text-center(width='60') #
+            th.text-center Topic
+            th.text-center(width='300') Speakers
+            th.text-center Slides
+            th.text-center(width='300') Links
+            th.text-center(width='100') Feedback
+        tbody
+          each talk, index in talks
+            tr
+              td.text-center #{index + 1}
+              td #{talk.title}
+              td.text-center
+                ul.no-bullet
+                  each speaker in talk.speakers
+                    li #{speaker.name}
+              td
+                ul.no-bullet
+                  each speaker in talk.speakers
+                    each slideshow in speaker.slides
+                      li
+                        a(href='#{slideshow.href}') #{slideshow.title}
+              td
+                ul.no-bullet
+                  each link in talk.links
+                    li
+                      a(href='#{link.href}' target='_blank') #{link.title}
+              td.text-center
+                a.button.small.tiny(href='#{talk.feedback_url}' target='_blank')
+                  | Feedback
