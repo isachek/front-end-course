@@ -3,7 +3,10 @@
     "title": "Course Overview. Git basics. HTML and CSS basics",
     "speakers": [{
       "name": "Dzmitry Varabei",
-      "slides": []
+      "slides": [{
+        "title": "Course Intro",
+        "href": "http://dzmitry-varabei.github.io/front-end-course/course-intro/#/"
+      }]
     }, {
       "name": "Stanislau Zubovich",
       "slides": []
