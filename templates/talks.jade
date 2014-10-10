@@ -54,8 +54,8 @@ head
                 ul.no-bullet
                   each speaker in talk.speakers
                     each slideshow in speaker.slides
-                      li
-                        a(href='#{slideshow.href}') #{slideshow.title}
+                      li.text-center
+                        a(href='#{slideshow.href}' target='blank') #{slideshow.title}
               td
                 ul.no-bullet
                   each link in talk.links
