@@ -16,5 +16,16 @@
       "href": "https://www.codeschool.com/courses/git-real"
     }],
     "feedback_url": "https://docs.google.com/forms/d/1amRQSbczDaayis-JzN0znsP18YwQi6We1rqn728tUVw/viewform"
+  }, {
+    "title": "HTML and CSS basics. Part II",
+    "speakers": [{
+      "name": "Stanislau Zubovich",
+      "slides": []
+    }, {
+      "name": "Andrei Vouchanka",
+      "slides": []
+    }],
+    "links": [],
+    "feedback_url": "https://docs.google.com/forms/d/1tn9bId5lZ2eXhRy1FSdh7PAjMs2Xkti8h7qilG4ss6M/viewform"
   }]
 }

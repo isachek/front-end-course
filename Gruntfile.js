@@ -12,12 +12,21 @@ module.exports = function (grunt) {
         files: {
           'talks/index.html': 'templates/talks.jade'
         }
+      },
+      tasks: {
+        options: {
+          data: grunt.file.readJSON('data/tasks.json'),
+          pretty: true
+        },
+        files: {
+          'tasks/index.html': 'templates/tasks.jade'
+        }
       }
     }
   });
 
   grunt.loadNpmTasks('grunt-contrib-jade');
 
-  grunt.registerTask('default', ['jade:talks']);
+  grunt.registerTask('default', ['jade:talks', 'jade:tasks']);
 
 }
