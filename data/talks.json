@@ -1,52 +1,50 @@
-{
-  "talks": [{
-    "title": "Course Overview. Git basics. HTML and CSS basics",
-    "speakers": [{
-      "name": "Dzmitry Varabei",
-      "slides": [{
-        "title": "Course Intro",
-        "href": "http://dzmitry-varabei.github.io/front-end-course/course-intro/#/"
-      }]
-    }, {
-      "name": "Stanislau Zubovich",
-      "slides": [{
-        "title": "HTML & CSS",
-        "href": "./../slides/HTMLCSS?full#1"
-      }]
-    }],
-    "links": [{
-      "title": "Git Real - Codeschool Course",
-      "href": "https://www.codeschool.com/courses/git-real"
-    }],
-    "feedback_url": "https://docs.google.com/forms/d/1amRQSbczDaayis-JzN0znsP18YwQi6We1rqn728tUVw/viewform"
+[{
+  "title": "Course Overview. Git basics. HTML and CSS basics",
+  "speakers": [{
+    "name": "Dzmitry Varabei",
+    "slides": [{
+      "title": "Course Intro",
+      "href": "http://dzmitry-varabei.github.io/front-end-course/course-intro/#/"
+    }]
   }, {
-    "title": "HTML and CSS basics. Part II",
-    "speakers": [{
-      "name": "Stanislau Zubovich",
-      "slides": [{
-        "title": "HTML & CSS. Part II",
-        "href": "./../slides/HTMLCSS/index.html?full#77"
-      }]
-    }, {
-      "name": "Andrei Vouchanka",
-      "slides": [{
-        "title": "CSS Talk",
-        "href": "http://r1zzu.github.io/slides/html-css-basics-part-2/#/"
-      }]
-    }],
-    "links": [{
-      "title": "caniuse.com",
-      "href": "http://caniuse.com/"
-    }, {
-      "title": "smashingmagazine.com",
-      "href": "http://www.smashingmagazine.com/"
-    }, {
-      "title": "30 selectors to memorize",
-      "href": "http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048"
-    }, {
-      "title": "CSS Selectors playground",
-      "href": "http://r1zzu.github.io/explore/css-selectors/"
-    }],
-    "feedback_url": "https://docs.google.com/forms/d/1tn9bId5lZ2eXhRy1FSdh7PAjMs2Xkti8h7qilG4ss6M/viewform"
-  }]
-}
+    "name": "Stanislau Zubovich",
+    "slides": [{
+      "title": "HTML & CSS",
+      "href": "./slides/HTMLCSS?full#1"
+    }]
+  }],
+  "links": [{
+    "title": "Git Real - Codeschool Course",
+    "href": "https://www.codeschool.com/courses/git-real"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/1amRQSbczDaayis-JzN0znsP18YwQi6We1rqn728tUVw/viewform"
+}, {
+  "title": "HTML and CSS basics. Part II",
+  "speakers": [{
+    "name": "Stanislau Zubovich",
+    "slides": [{
+      "title": "HTML & CSS. Part II",
+      "href": "./slides/HTMLCSS/index.html?full#77"
+    }]
+  }, {
+    "name": "Andrei Vouchanka",
+    "slides": [{
+      "title": "CSS Talk",
+      "href": "http://r1zzu.github.io/slides/html-css-basics-part-2/#/"
+    }]
+  }],
+  "links": [{
+    "title": "caniuse.com",
+    "href": "http://caniuse.com/"
+  }, {
+    "title": "smashingmagazine.com",
+    "href": "http://www.smashingmagazine.com/"
+  }, {
+    "title": "30 selectors to memorize",
+    "href": "http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048"
+  }, {
+    "title": "CSS Selectors playground",
+    "href": "http://r1zzu.github.io/explore/css-selectors/"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/1tn9bId5lZ2eXhRy1FSdh7PAjMs2Xkti8h7qilG4ss6M/viewform"
+}]

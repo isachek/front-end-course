@@ -2,24 +2,23 @@
 
 module.exports = function (grunt) {
 
+  function getData(datasetName) {
+    console.log(datasetName)
+    return grunt.file.readJSON('data/' + datasetName + '.json');
+  }
+
   grunt.initConfig({
     jade: {
-      talks: {
+      index: {
         options: {
-          data: grunt.file.readJSON('data/talks.json'),
-          pretty: true
+          data: {
+            talks: getData('talks'),
+            tasks: getData('tasks'),
+            pretty: true
+          }
         },
         files: {
-          'talks/index.html': 'templates/talks.jade'
-        }
-      },
-      tasks: {
-        options: {
-          data: grunt.file.readJSON('data/tasks.json'),
-          pretty: true
-        },
-        files: {
-          'tasks/index.html': 'templates/tasks.jade'
+          'index.html': 'templates/index.jade'
         }
       }
     }
@@ -27,6 +26,6 @@ module.exports = function (grunt) {
 
   grunt.loadNpmTasks('grunt-contrib-jade');
 
-  grunt.registerTask('default', ['jade:talks', 'jade:tasks']);
+  grunt.registerTask('default', ['jade']);
 
 }
