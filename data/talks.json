@@ -47,4 +47,18 @@
     "href": "http://r1zzu.github.io/explore/css-selectors/"
   }],
   "feedback_url": "https://docs.google.com/forms/d/1tn9bId5lZ2eXhRy1FSdh7PAjMs2Xkti8h7qilG4ss6M/viewform"
+}, {
+  "title": "HTML Layout",
+  "speakers": [{
+    "name": "Stanislau Zubovich",
+    "slides": []
+  }, {
+    "name": "Dzmitry Varabei",
+    "slides": []
+  }],
+  "links": [{
+    "title": "JSFiddle",
+    "href": "http://caniuse.com/"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/1U_Ui3HH_6b7U5fHCKpqHzZnHjo77f1vmCf_0eNh7wjM/viewform"
 }]

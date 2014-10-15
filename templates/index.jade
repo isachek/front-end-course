@@ -88,8 +88,8 @@ html
                   td(colspan=2)
                     | Usefull links
                 each link in talk.links
-                  tr(colspan=2)
-                    td
+                  tr
+                    td(colspan=2)
                       a(href="#{link.href}") #{link.title}
 
               //- ul.no-bullet
