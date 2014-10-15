@@ -60,11 +60,10 @@ html
         h3 Tasks
         ul.tasks.no-bullet
           li
-            a(href="https://www.coursera.org/course/algs4partI") ! Algorithms
-          each task in tasks
+            a(href="https://www.coursera.org/course/algs4partI") 0. ! Algorithms
+          each task, index in tasks
             li
-              a(href='#{task.link}')
-                | #{task.title}
+              a(href='#{task.link}') #{index + 1}. #{task.title}
 
         h3 Talks
         ul.no-bullet
@@ -85,6 +84,13 @@ html
                           tr.slides
                             td(width="70%")
                               a(href='#{slideshow.href}') #{slideshow.title}
+                tr
+                  td(colspan=2)
+                    | Usefull links
+                each link in talk.links
+                  tr(colspan=2)
+                    td
+                      a(href="#{link.href}") #{link.title}
 
               //- ul.no-bullet
               //-   li
