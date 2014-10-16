@@ -54,11 +54,17 @@
     "slides": []
   }, {
     "name": "Dzmitry Varabei",
-    "slides": []
+    "slides": [{
+        "title": "Basic Tools",
+        "href": "http://dzmitry-varabei.github.io/front-end-course/basic-tools/basic_tools.pptx"
+    },{
+        "title": "The Undefined",
+        "href": "http://dzmitry-varabei.github.io/front-end-course/the-undefined/undefined.pptx"
+    }]
   }],
   "links": [{
     "title": "JSFiddle",
-    "href": "http://caniuse.com/"
+    "href": "http://jsfiddle.net/"
   }],
   "feedback_url": "https://docs.google.com/forms/d/1U_Ui3HH_6b7U5fHCKpqHzZnHjo77f1vmCf_0eNh7wjM/viewform"
 }]
