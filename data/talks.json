@@ -51,7 +51,10 @@
   "title": "HTML Layout",
   "speakers": [{
     "name": "Stanislau Zubovich",
-    "slides": []
+    "slides": [{
+      "title": "Layout",
+      "href": "./slides/Layout"
+    }]
   }, {
     "name": "Dzmitry Varabei",
     "slides": [{

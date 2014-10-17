@@ -13,9 +13,9 @@ module.exports = function (grunt) {
         options: {
           data: {
             talks: getData('talks'),
-            tasks: getData('tasks'),
-            pretty: true
-          }
+            tasks: getData('tasks')
+          },
+          pretty: true
         },
         files: {
           'index.html': 'templates/index.jade'
