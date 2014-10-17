@@ -150,9 +150,6 @@ article {
 }
 
 .talk-item {
-    display: table;
-    width: 100%;
-    box-sizing: border-box;
     overflow: hidden;
     padding: .5em 1em;
     margin: .2em 0;
@@ -160,15 +157,15 @@ article {
 }
 
 .talk-item-link {
-    display: table-cell;
-    vertical-align: top;
+    display: block;
+    margin-right: 140px;
 }
 
 
 .talk-speaker {
-    display: table-cell;
-    vertical-align: top;
-    width: 120px;
+    display: block;
+    float: right;
+    width: 130px;
     text-align: right;
     font-size: 80%;
 }
