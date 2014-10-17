@@ -71,7 +71,7 @@
   }],
   "feedback_url": "https://docs.google.com/forms/d/1U_Ui3HH_6b7U5fHCKpqHzZnHjo77f1vmCf_0eNh7wjM/viewform"
 }, {
-  "title": "Layout modules. Flexbox. Sublime Text",
+  "title": "Layout modules. Flexbox",
   "speakers": [{
     "name": "Stanislau Zubovich",
     "slides": [{
@@ -81,16 +81,7 @@
   }, {
     "name": "Dzmitry Varabei",
     "slides": []
-  }, {
-    "name": "Aliaksandr Herasimau",
-    "slides": [{
-      "title": "Sublime Text",
-      "href": "#"
-    }]
   }],
-  "links": [{
-    "title": "JSFiddle",
-    "href": "http://jsfiddle.net/"
-  }],
-  "feedback_url": "https://docs.google.com/forms/d/1U_Ui3HH_6b7U5fHCKpqHzZnHjo77f1vmCf_0eNh7wjM/viewform"
+  "links": [],
+  "feedback_url": "https://docs.google.com/forms/d/1EUsnd1-sMGFJ0eypkZ8kI532aVBwU8tWeIya9ZbYCF8/viewform"
 }]
