@@ -82,6 +82,12 @@
     "name": "Dzmitry Varabei",
     "slides": []
   }],
-  "links": [],
+  "links": [{
+    "title": "Fibbonaci Flex",
+    "href": "http://maxsteenbergen.com/fibonacci/"
+  }, {
+    "title": "Flexy Boxes",
+    "href": "http://the-echoplex.net/flexyboxes/"
+  }],
   "feedback_url": "https://docs.google.com/forms/d/1EUsnd1-sMGFJ0eypkZ8kI532aVBwU8tWeIya9ZbYCF8/viewform"
 }]

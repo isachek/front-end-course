@@ -39,10 +39,10 @@ html
 
     section
       h2 Talks
-      each talk, index in talks
+      each talk, index in talks.reverse()
         article
           h3.talk-title
-            | #{index + 1}. #{talk.title}
+            | #{talks.length - index}. #{talk.title}
             a.btn-feedback(href='#{talk.feedback_url}')
               |Feedback
           ul.talks

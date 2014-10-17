@@ -3,7 +3,6 @@
 module.exports = function (grunt) {
 
   function getData(datasetName) {
-    console.log(datasetName)
     return grunt.file.readJSON('data/' + datasetName + '.json');
   }
 
