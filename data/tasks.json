@@ -1,7 +1,13 @@
 [{
+   "title": "Algorithms",
+   "link": "https://www.coursera.org/course/algs4partI"
+}, {
   "title": "Intro task",
   "link": "https://github.com/rolling-scopes/front-end-course/wiki/Task-%231"
 }, {
   "title": "UI Lab",
   "link": "https://github.com/rolling-scopes/front-end-course/wiki/Task-%232"
+},{
+    "title": "Flexbox",
+    "link": "https://github.com/rolling-scopes/front-end-course/wiki/Task-%233"
 }]

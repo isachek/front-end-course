@@ -20,6 +20,8 @@ html
           li.header-link-item
             a(href='https://docs.google.com/forms/d/1dsGkxk0P9McvuKTkhEj-Pm_1pznpkVfzIhwjofW5Lgk/viewform') Feedback
           li.header-link-item
+            a(href='https://docs.google.com/spreadsheet/ccc?key=0AnUA7wlxcI_-dFphZEFyUHFPZlJDS2hLbVJIc0VYREE&usp=drive_web#gid=0') Score
+          li.header-link-item
             a(href='skype:?chat&blob=rZFzmW34j_DNu3McnAHeYRZaSNzwEy-Dy7MbhZKt6cQQ9xZzt3NS3tqizkjd5yUMrSSSee5mA2961_Cl')
               i.fa.fa-skype
                 | Skype
@@ -30,12 +32,9 @@ html
     section
       h2 Tasks
       ol.tasks
-        li
-          a(href='https://www.coursera.org/course/algs4partI')
-            | ! Algorithms
         each task in tasks
           li
-            a(href='#{task.href}')
+            a(href='#{task.link}')
               | #{task.title}
 
     section
