@@ -70,4 +70,27 @@
     "href": "http://jsfiddle.net/"
   }],
   "feedback_url": "https://docs.google.com/forms/d/1U_Ui3HH_6b7U5fHCKpqHzZnHjo77f1vmCf_0eNh7wjM/viewform"
+}, {
+  "title": "Layout modules. Flexbox. Sublime Text",
+  "speakers": [{
+    "name": "Stanislau Zubovich",
+    "slides": [{
+      "title": "Layout modules. Flexbox",
+      "href": "#"
+    }]
+  }, {
+    "name": "Dzmitry Varabei",
+    "slides": []
+  }, {
+    "name": "Aliaksandr Herasimau",
+    "slides": [{
+      "title": "Sublime Text",
+      "href": "#"
+    }]
+  }],
+  "links": [{
+    "title": "JSFiddle",
+    "href": "http://jsfiddle.net/"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/1U_Ui3HH_6b7U5fHCKpqHzZnHjo77f1vmCf_0eNh7wjM/viewform"
 }]
