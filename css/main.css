@@ -134,6 +134,8 @@ article {
 /******************  tasks  ******************/
 .tasks {
     line-height: 1.8em;
+    padding: 0;
+    list-style-position: inside;
 }
 
 /******************  talks  ******************/
