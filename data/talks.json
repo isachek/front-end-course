@@ -90,4 +90,15 @@
     "href": "http://the-echoplex.net/flexyboxes/"
   }],
   "feedback_url": "https://docs.google.com/forms/d/1EUsnd1-sMGFJ0eypkZ8kI532aVBwU8tWeIya9ZbYCF8/viewform"
+}, {
+    "title": "Responsive Web Design",
+    "speakers": [{
+        "name": "Stanislau Zubovich",
+        "slides": [{
+            "title": "Responsive Web Design",
+            "href": "https://drive.google.com/#folders/0B3UA7wlxcI_-RWNBeVZuTHR6VWM"
+        }]
+    }],
+    "links": [],
+    "feedback_url": "https://docs.google.com/forms/d/1JFN8MXzxc5wp2rfW2hYiKsoc--wuLVreCAHL9wkeD0k/viewform"
 }]
