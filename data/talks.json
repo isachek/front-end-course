@@ -101,4 +101,24 @@
     }],
     "links": [],
     "feedback_url": "https://docs.google.com/forms/d/1JFN8MXzxc5wp2rfW2hYiKsoc--wuLVreCAHL9wkeD0k/viewform"
+}, {
+    "title": "Sublime Text. Web Typography. UX",
+    "speakers": [{
+        "name": "Alexander Gerasimov",
+        "slides": [{
+            "title": "Sublime Text",
+            "href": ""
+        }, {
+            "title": "Web Typography",
+            "href": ""
+        }]
+    }, {
+        "name": "Andrei Vouchanka",
+        "slides": [{
+            "title": "UX inspired by Vitaly Friedman",
+            "href": "https://drive.google.com/#folders/0B3UA7wlxcI_-b2FwdDFaaE00a2M"
+        }]
+    }],
+    "links": [],
+    "feedback_url": "https://docs.google.com/forms/d/1JFN8MXzxc5wp2rfW2hYiKsoc--wuLVreCAHL9wkeD0k/viewform"
 }]
