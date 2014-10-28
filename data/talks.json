@@ -141,6 +141,18 @@
             "href": "http://dzmitry-varabei.github.io/front-end-course/js-data-types/Data_types.pptx"
         }]
     }],
-    "links": [],
+    "links": [{
+        "title": "Хороший учебник по JS c заданиями - learn.javascript.ru",
+        "href": "http://learn.javascript.ru/"
+    },{
+        "title": "Анализатор качества кода - jshint ",
+        "href": "http://www.jshint.com/"
+    }, {
+        "title": "И его более продвинутый аналог- eslint ",
+        "href": "https://github.com/eslint/eslint"
+    }, {
+        "title": "Парсер Esprima ",
+        "href": "http://esprima.org/demo/parse.html"
+    }],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=8&entry.688984352&entry.783979980"
 }]
