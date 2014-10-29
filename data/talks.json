@@ -155,4 +155,27 @@
         "href": "http://esprima.org/demo/parse.html"
     }],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=8&entry.688984352&entry.783979980"
+}, {
+    "title": "JavaScript Functions",
+    "speakers": [{
+        "name": "Dzmitry Varabei",
+        "slides": [{
+            "title": "Functions",
+            "href": "http://dzmitry-varabei.github.io/front-end-course/functions.zip"
+        }]
+    }],
+    "links": [{
+        "title": "JS Fuck",
+        "href": "http://www.jsfuck.com/"
+    },{
+        "title": "Quine",
+        "href": "http://en.wikipedia.org/wiki/Quine_(computing)"
+    }, {
+        "title": "The Google Cross-Site Scripting Challenge",
+        "href": "https://xss-game.appspot.com/"
+    }, {
+        "title": "Barnaby Jack",
+        "href": "http://en.wikipedia.org/wiki/Barnaby_Jack"
+    }],
+    "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=9&entry.688984352&entry.783979980"
 }]
