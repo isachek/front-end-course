@@ -189,4 +189,29 @@
     }],
     "links": [],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=10&entry.688984352&entry.783979980"
+},{
+    "title": "Object.*, Array.prototype.*, Strict mode.",
+    "speakers": [{
+        "name": "Dzmitry Herasimov",
+        "slides": [{
+            "title": "Strict mode*",
+            "href": "./slides/js-strict-mode-talk/index.html"
+        },{
+            "title": "Object.*",
+            "href": "./slides/js-object-talk/index.html"
+        }]
+    }],
+    "links": [],
+    "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=11&entry.688984352&entry.783979980"
+}, {
+    "title": "Functions. Cloruses. Inheritance.",
+    "speakers": [{
+        "name": "Dzmitry Varabei",
+        "slides": [{
+            "title": "Functions",
+            "href": "http://dzmitry-varabei.github.io/front-end-course/functions.zip"
+        }]
+    }],
+    "links": [],
+    "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=12&entry.688984352&entry.783979980"
 }]
