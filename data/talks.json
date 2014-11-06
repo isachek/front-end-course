@@ -156,7 +156,7 @@
     }],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=8&entry.688984352&entry.783979980"
 }, {
-    "title": "JavaScript Functions",
+    "title": "JavaScript Functions. Part I.",
     "speakers": [{
         "name": "Dzmitry Varabei",
         "slides": [{
@@ -204,7 +204,7 @@
     "links": [],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=11&entry.688984352&entry.783979980"
 }, {
-    "title": "Functions. Cloruses. Inheritance.",
+    "title": "Functions. Cloruses. Part II",
     "speakers": [{
         "name": "Dzmitry Varabei",
         "slides": [{
@@ -212,6 +212,12 @@
             "href": "http://dzmitry-varabei.github.io/front-end-course/functions.zip"
         }]
     }],
-    "links": [],
+    "links": [{
+        "title": "JS Core by Dmitry Soshnikov",
+        "href": "http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/"
+    }, {
+        "title": "Why is setTimeout(fn, 0) sometimes useful? (читать до конца)",
+        "href": "http://stackoverflow.com/questions/779379/why-is-settimeoutfn-0-sometimes-useful"
+    }],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=12&entry.688984352&entry.783979980"
 }]
