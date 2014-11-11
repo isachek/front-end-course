@@ -204,7 +204,7 @@
     "links": [],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=11&entry.688984352&entry.783979980"
 }, {
-    "title": "Functions. Cloruses. Part II",
+    "title": "Functions. Closures. Part II",
     "speakers": [{
         "name": "Dzmitry Varabei",
         "slides": [{
@@ -220,4 +220,24 @@
         "href": "http://stackoverflow.com/questions/779379/why-is-settimeoutfn-0-sometimes-useful"
     }],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=12&entry.688984352&entry.783979980"
+}, {
+    "title": "Inheritance. Arrays. Practice.",
+    "speakers": [{
+        "name": "Dzmitry Varabei",
+        "slides": [{
+            "title": "Inheritance",
+            "href": "http://dzmitry-varabei.github.io/front-end-course/inheritance-in-javascript.zip"
+        }]
+    }, {
+        "name": "Alexander Gerasimov",
+        "slides": [{
+            "title": "Arrays",
+            "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
+        }]
+    }],
+    "links": [{
+        "title": "Douglas Crockford: The Better Parts - JSConfUY 2014",
+        "href": "https://www.youtube.com/watch?v=bo36MrBfTk4"
+    }],
+    "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=13&entry.688984352&entry.783979980"
 }]
