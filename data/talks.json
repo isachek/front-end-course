@@ -240,4 +240,23 @@
         "href": "https://www.youtube.com/watch?v=bo36MrBfTk4"
     }],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=13&entry.688984352&entry.783979980"
+}, {
+  "title": "List Mistakes. DOM",
+  "speakers": [{
+    "name": "Dzmitry Gerasimov",
+    "slides": [{
+      "title": "List Mistakes"
+    }]
+  }, {
+    "name": "Andrei Vouchanka",
+    "slides": [{
+      "title": "DOM",
+      "href": "./slides/dom"
+    }]
+  }],
+  "links": [{
+    "title": "DOM",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=14&entry.688984352&entry.783979980"
 }]
