@@ -259,4 +259,18 @@
     "href": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"
   }],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=14&entry.688984352&entry.783979980"
+}, {
+  "title": "DOM Events",
+  "speakers": [{
+    "name": "Andrei Vouchanka",
+    "slides": [{
+      "title": "DOM Events",
+      "href": "./slides/dom-events"
+    }]
+  }],
+  "links": [{
+    "title": "Event capturing/bubbling explanation",
+    "href": "https://www.youtube.com/watch?v=0sfPDJiMTXk"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=15&entry.688984352&entry.783979980"
 }]
