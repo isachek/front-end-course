@@ -273,4 +273,15 @@
     "href": "https://www.youtube.com/watch?v=0sfPDJiMTXk"
   }],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=15&entry.688984352&entry.783979980"
+}, {
+  "title": "JQuery",
+  "speakers": [{
+    "name": "Andrei Yanovich",
+    "slides": [{
+      "title": "JQuery",
+      "href": "./slides/js-slides/js_jquery/js_jquery.html"
+    }]
+  }],
+  "links": [],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=16&entry.688984352&entry.783979980"
 }]
