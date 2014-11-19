@@ -284,4 +284,24 @@
   }],
   "links": [],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=16&entry.688984352&entry.783979980"
+}, {
+  "title": "Animations",
+  "speakers": [{
+    "name": "Kirill Demura",
+    "slides": [{
+      "title": "Animations",
+      "href": "http://wontem.github.io/slides/animations/#/"
+    }]
+  }],
+  "links": [{
+    "title": "CSS Timing Functions",
+    "href": "http://www.smashingmagazine.com/2014/04/15/understanding-css-timing-functions/"
+  }, {
+    "title": "High Performance Animations",
+    "href": "http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/"
+  }, {
+    "title": "Why Moving Elements With Translate() Is Better Than Pos:abs Top/left",
+    "href": "http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=17&entry.688984352&entry.783979980"
 }]
