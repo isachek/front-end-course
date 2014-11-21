@@ -34,4 +34,7 @@
 }, {
     "title": "Animations task",
     "link": "https://github.com/rolling-scopes/front-end-course/wiki/Animations-task"
+}, {
+    "title": "Grunt build task",
+    "link": "https://github.com/rolling-scopes/front-end-course/tree/gh-pages/tasks/grunt-build-task"
 }]
