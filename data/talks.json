@@ -304,4 +304,30 @@
     "href": "http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/"
   }],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=17&entry.688984352&entry.783979980"
+}, {
+  "title": "Project structure and asset management. (Grunt, Node.js, NPM, Bower)",
+  "speakers": [{
+    "name": "Aliaksandr Karlovich",
+    "slides": [{
+      "title": "Front-end project assets management",
+      "href": "./slides/dependencies-talk/"
+    }]
+  }, {
+    "name": "Andrei Vouchanka",
+    "slides": [{
+      "title": "Grunt",
+      "href": "./slides/grunt-talk"
+    }]
+  }],
+  "links": [{
+    "title": "npm doc",
+    "href": "https://www.npmjs.org/doc/"
+  }, {
+    "title": "bower",
+    "href": "http://bower.io/"
+  }, {
+    "title": "Grunt",
+    "href": "http://gruntjs.com/"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=18&entry.688984352&entry.783979980"
 }]
