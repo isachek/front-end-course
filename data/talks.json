@@ -243,7 +243,7 @@
 }, {
   "title": "List Mistakes. DOM",
   "speakers": [{
-    "name": "Dzmitry Gerasimov",
+    "name": "Dmitry Gerasimov",
     "slides": [{
       "title": "List Mistakes"
     }]
@@ -330,4 +330,18 @@
     "href": "http://gruntjs.com/"
   }],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=18&entry.688984352&entry.783979980"
+}, {
+  "title": "Design Patterns. Iterator Implementation",
+  "speakers": [{
+    "name": "Dmitry Gerasimov",
+    "slides": [{
+      "title": "Iterator Implementation",
+      "href": ""
+    }]
+  }, {
+    "name": "Alexander Gerasimov",
+    "slides": []
+  }],
+  "links": [],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=19&entry.688984352&entry.783979980"
 }]
