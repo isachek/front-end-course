@@ -344,4 +344,23 @@
   }],
   "links": [],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=19&entry.688984352&entry.783979980"
+}, {
+    "title": "Network Basics. HTTP",
+    "speakers": [{
+        "name": "Aliaksandr Karlovich",
+        "slides": [{
+            "title": "Network. HTTP",
+            "href": ""
+        }]}, {
+         "name": "Dzmitry Varabei",
+         "slides": [{
+                "title": "Network",
+                "href": "http://dzmitry-varabei.github.io/front-end-course/network.pptx"
+         }]
+    }],
+    "links": [{
+        "title": "High Performance Browser Networking by Ilya Grigorik",
+        "href": "http://chimera.labs.oreilly.com/books/1230000000545"
+    }],
+    "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=20&entry.688984352&entry.783979980"
 }]
