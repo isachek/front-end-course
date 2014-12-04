@@ -51,8 +51,12 @@ html
               li.talk-item
                 span.talk-speaker #{speaker.name}
                 each slideshow in speaker.slides
-                  a.talk-item-link(href='#{slideshow.href}')
-                    | #{slideshow.title}
+                  if slideshow.href && slideshow.href !== '#'
+                    a.talk-item-link(href='#{slideshow.href}')
+                      | #{slideshow.title}
+                  else
+                    span.talk-item-link
+                      | #{slideshow.title}
           if talk.links && talk.links.length
             h4.text-right Usefull links
             ul.links
