@@ -53,8 +53,9 @@ html
                 each slideshow in speaker.slides
                   a.talk-item-link(href='#{slideshow.href}')
                     | #{slideshow.title}
-          h4.text-right Usefull links
-          ul.links
-            each link in talk.links
-              li
-                a(href='#{link.href}') #{link.title}
+          if talk.links && talk.links.length
+            h4.text-right Usefull links
+            ul.links
+              each link in talk.links
+                li
+                  a(href='#{link.href}') #{link.title}
