@@ -99,7 +99,7 @@
             "href": "https://drive.google.com/#folders/0B3UA7wlxcI_-RWNBeVZuTHR6VWM"
         }]
     }],
-    "links": [],
+
     "feedback_url": "https://docs.google.com/forms/d/1JFN8MXzxc5wp2rfW2hYiKsoc--wuLVreCAHL9wkeD0k/viewform"
 }, {
     "title": "Sublime Text. Web Typography. UX",
@@ -119,7 +119,7 @@
             "href": "https://drive.google.com/#folders/0B3UA7wlxcI_-b2FwdDFaaE00a2M"
         }]
     }],
-    "links": [],
+
     "feedback_url": "https://docs.google.com/forms/d/1JFN8MXzxc5wp2rfW2hYiKsoc--wuLVreCAHL9wkeD0k/viewform"
 }, {
     "title": "CSS Cookbook; HTML/CSS Q&A session",
@@ -127,7 +127,7 @@
         "name": "Stanislau Zubovich",
         "slides": []
     }],
-    "links": [],
+
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=7&entry.688984352&entry.783979980"
 },{
     "title": "JavaScript Intro",
@@ -187,7 +187,7 @@
             "href": "https://github.com/rolling-scopes/front-end-course/wiki/Task-%234"
         }]
     }],
-    "links": [],
+
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=10&entry.688984352&entry.783979980"
 },{
     "title": "Object.*, Array.prototype.*, Strict mode.",
@@ -201,7 +201,7 @@
             "href": "./slides/js-object-talk/index.html"
         }]
     }],
-    "links": [],
+
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=11&entry.688984352&entry.783979980"
 }, {
     "title": "Functions. Closures. Part II",
@@ -282,7 +282,6 @@
       "href": "./slides/js-slides/js_jquery/js_jquery.html"
     }]
   }],
-  "links": [],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=16&entry.688984352&entry.783979980"
 }, {
   "title": "Animations",
@@ -342,7 +341,6 @@
     "name": "Alexander Gerasimov",
     "slides": []
   }],
-  "links": [],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=19&entry.688984352&entry.783979980"
 }, {
     "title": "Network Basics. HTTP",
@@ -350,17 +348,51 @@
         "name": "Aliaksandr Karlovich",
         "slides": [{
             "title": "Network. HTTP",
-            "href": ""
-        }]}, {
-         "name": "Dzmitry Varabei",
-         "slides": [{
-                "title": "Network",
-                "href": "http://dzmitry-varabei.github.io/front-end-course/network.pptx"
-         }]
-    }],
+            "href": "./slides/HTTP"
+        }]}],
     "links": [{
         "title": "High Performance Browser Networking by Ilya Grigorik",
         "href": "http://chimera.labs.oreilly.com/books/1230000000545"
     }],
     "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=20&entry.688984352&entry.783979980"
+}, {
+  "title": "Ajax. Promise Pattern",
+  "speakers": [{
+    "name": "Andrei Yanovich",
+    "slides": [{
+      "title": "Ajax",
+      "href": "./slides/ajax-talk"
+    }, {
+      "title": "Promise Pattern",
+      "href": "./slides/jquery-deferred-promise-talk"
+    }]
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=21&entry.688984352&entry.783979980"
+}, {
+  "title": "WebSocket Challenge",
+  "speakers": [{
+    "name": "Alexander Gerasimov",
+    "slides": [{
+      "title": "WebSocket Challenge",
+      "href": ""
+    }]
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=22&entry.688984352&entry.783979980"
+}, {
+  "title": "Network. Performance, Paint and Compositing, How browser works",
+  "speakers": [{
+    "name": "Dzmitry Varabei",
+    "slides": [{
+      "title": "Network",
+      "href": "http://dzmitry-varabei.github.io/front-end-course/network.pptx"
+    }, {
+      "title": "Performance, Paint and Compositing, How browser works",
+      "href": "./slides/chrome-paint-and-compositing/ChromeInternalsPaint.pptx"
+    }]
+  }],
+  "links": [{
+    "title": "How Browser Works?",
+    "href": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=23&entry.688984352&entry.783979980"
 }]
