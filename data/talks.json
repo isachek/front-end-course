@@ -395,4 +395,23 @@
     "href": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
   }],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=23&entry.688984352&entry.783979980"
+}, {
+  "title": "CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)",
+  "speakers": [{
+    "name": "Aliaksandr Karlovich",
+    "slides": [{
+      "title": "Stylish stylus",
+      "href": "./slides/stylish-stylus/slides"
+    }]
+  }, {
+    "name": "Andrei Vouchanka",
+    "slides": [{
+      "title": "Brush up"
+    }]
+  }],
+  "links": [{
+    "title": "Stylus documentation",
+    "href": "http://learnboost.github.io/stylus/docs/js.html"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=24&entry.688984352&entry.783979980"
 }]
