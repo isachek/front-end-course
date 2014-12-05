@@ -140,7 +140,11 @@ module.exports = function (grunt) {
 	}
 
 	function copyrightImage(var1) {
+		console.log(var1);
 		return function (style, option) {
+			JSON.stringify(style);
+			console.log(option);
+			console.log(style);
 			var date = new Date();
 			style.define('copyrightImage', function (path) {
 				var Canvas = require('canvas'),

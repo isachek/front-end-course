@@ -410,6 +410,12 @@
     }]
   }],
   "links": [{
+    "title": "Optional Stylus Task",
+    "href": "./slides/stylish-stylus/task.txt"
+  }, {
+    "title": "Stylus Demo Project",
+    "href": "./tasks/stylish-stylus.zip" 
+  }, {
     "title": "Stylus documentation",
     "href": "http://learnboost.github.io/stylus/docs/js.html"
   }],
