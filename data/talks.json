@@ -418,6 +418,9 @@
   }, {
     "title": "Stylus documentation",
     "href": "http://learnboost.github.io/stylus/docs/js.html"
+  }, {
+    "title": "Node Canvas Installation",
+    "href": "https://github.com/Automattic/node-canvas/wiki"
   }],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=24&entry.688984352&entry.783979980"
 }]
