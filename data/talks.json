@@ -423,4 +423,40 @@
     "href": "https://github.com/Automattic/node-canvas/wiki"
   }],
   "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=24&entry.688984352&entry.783979980"
+},{
+    "title": "Testing JavaScript Applications",
+    "speakers": [{
+        "name": "Dmitry Gerasimov & Alexander Gerasimov",
+        "slides": [{
+            "title": "Testing JavaScript Applications",
+            "href": "./slides/jstesting-talk/"
+        }]
+    }],
+    "links": [],
+    "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=25&entry.688984352&entry.783979980"
+},{
+    "title": "Testing JavaScript Applications. Part II",
+    "speakers": [{
+        "name": "Dmitry Gerasimov & Alexander Gerasimov",
+        "slides": [{
+            "title": "Testing JavaScript Applications",
+            "href": "./slides/jstesting-talk/"
+        }]
+    }],
+    "links": [],
+    "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=26&entry.688984352&entry.783979980"
+},{
+    "title": "Angular",
+    "speakers": [{
+        "name": "Kanstantsin Yatskevich, Andrei Yemialyanchik",
+        "slides": [{
+            "title": "Angular",
+            "href": "./slides/angular_baranoshnik.zip"
+        }]
+    }],
+    "links": [{
+        "title": "notes",
+        "href": "https://github.com/rolling-scopes/front-end-course/wiki/Angular"
+    }],
+    "feedback_url": "https://docs.google.com/forms/d/14U7xizYq8wkkKkpUv4tHpTvGOUqIsNsNkXIlIPG52J8/viewform?entry.2031034787=26&entry.688984352&entry.783979980"
 }]
