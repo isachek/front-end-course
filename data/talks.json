@@ -23,4 +23,22 @@
     "href": "https://www.codeschool.com/courses/git-real"
   }],
   "feedback_url": "https://docs.google.com/forms/d/1323j2e0tsMYEOJkKvaJQo4MlHFlF91Op2iNCFgOqZUs/viewform?entry.1910623467=0&entry.1387272617"
+}, {
+  "title": "Sublime Text Overview. HTML & CSS Overview",
+  "speakers": [{
+    "name": "Aliaksei Krauchanka",
+    "slides": [{
+      "title": "Sublime Text Overview"
+    }]
+  }, {
+    "name": "Stanislau Zubovich",
+    "slides": [{
+      "title": "HTML & CSS Basics"
+    }]
+  }],
+  "links": [{
+    "title": "12 Most-Wanted Sublime Text Tips And Tricks",
+    "href": "http://www.hongkiat.com/blog/sublime-text-tips/"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/1323j2e0tsMYEOJkKvaJQo4MlHFlF91Op2iNCFgOqZUs/viewform?entry.1910623467=1&entry.1387272617"
 }]
