@@ -28,7 +28,8 @@
   "speakers": [{
     "name": "Aliaksei Krauchanka",
     "slides": [{
-      "title": "Sublime Text Overview"
+      "title": "Sublime Text Overview",
+      "href": "https://docs.google.com/presentation/d/1jTNb7geHsrOmSfas_e07Hmj12spbDiGTbreDFii7Nmc/embed?slide=id.p"
     }]
   }, {
     "name": "Stanislau Zubovich",
