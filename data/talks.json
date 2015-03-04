@@ -49,4 +49,24 @@
     "href": "http://htmlbook.ru"
   }],
   "feedback_url": "https://docs.google.com/forms/d/1323j2e0tsMYEOJkKvaJQo4MlHFlF91Op2iNCFgOqZUs/viewform?entry.1910623467=2&entry.1387272617"
+}, {
+  "title": "HTML & CSS",
+  "speakers": [{
+    "name": "Stanislau Zubovich",
+    "slides": [{
+      "title": "HTML & CSS",
+      "href": "./slides/HTMLCSS/?full#76"
+    }]
+  }],
+  "links": [{
+    "title": "htmlbook.ru",
+    "href": "http://htmlbook.ru"
+  }, {
+    "title": "caniuse",
+    "href": "http://caniuse.com"
+  }, {
+    "title": "Smashing Magazine",
+    "href": "http://smashingmagazine.com"
+  }],
+  "feedback_url": "https://docs.google.com/forms/d/1323j2e0tsMYEOJkKvaJQo4MlHFlF91Op2iNCFgOqZUs/viewform?entry.1910623467=3&entry.1387272617"
 }]
