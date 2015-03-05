@@ -43,8 +43,12 @@ html
       ul.tasks
         each task in tasks
           li
-            a(href='#{task.link}')
-              | #{task.title}
+            if task.md
+              a(href='./tasks.html##{task.md}')
+                | #{task.title}
+            else
+              a(href='#{task.link}')
+                | #{task.title}
 
     section
       h2 Talks

@@ -2,6 +2,13 @@
    "title": "Algorithms",
    "link": "https://www.coursera.org/course/algs4partI"
 }, {
-  "title": "Intro task (task1a)",
-  "link": "https://github.com/rolling-scopes/front-end-course/wiki/Task-%231a"
+  "title": "Welcome aboard!",
+  "md": "welcome-aboard"
+}, {
+  "title": "Holy Grail",
+  "md": "holy-grail"
+}
+, {
+  "title": "UI lab",
+  "md": "ui-lab"
 }]

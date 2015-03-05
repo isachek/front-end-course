@@ -17,7 +17,8 @@ module.exports = function (grunt) {
           pretty: true
         },
         files: {
-          'index.html': 'templates/index.jade'
+          'index.html': 'templates/index.jade',
+          'tasks.html': 'templates/tasks.jade'
         }
       }
     }
@@ -27,4 +28,4 @@ module.exports = function (grunt) {
 
   grunt.registerTask('default', ['jade']);
 
-}
+};
