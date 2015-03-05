@@ -2,7 +2,7 @@
 	'use strict';
 
 	var TASK_NOT_FOUND_MD = '**TASK NOT FOUND**';
-	var TASKS_BASE_URL = '/tasks/markdown/';
+	var TASKS_BASE_URL = window.location.pathname.replace('tasks.html', '') + 'tasks/markdown/';
 	var WELCOME = '**WELCOME**';
 	var mdContainer = document.querySelector('.markdown-body');
 	var taskName;
